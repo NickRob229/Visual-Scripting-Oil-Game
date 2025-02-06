@@ -61,6 +61,7 @@ MonoBehaviour:
   m_optimizeBufferDiscards: 0
   m_symmetricProjection: 0
   m_foveatedRenderingApi: 0
+  versionChanged: 0
 --- !u!114 &-8811549227857779030
 MonoBehaviour:
   m_ObjectHideFlags: 0
